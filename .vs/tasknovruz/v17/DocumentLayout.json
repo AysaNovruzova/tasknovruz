@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\tasknovruz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E95F4386-BF33-436F-8703-5C3E1508D456}|tasknovruz\\tasknovruz.csproj|c:\\users\\hp\\desktop\\tasknovruz\\tasknovruz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95F4386-BF33-436F-8703-5C3E1508D456}|tasknovruz\\tasknovruz.csproj|solutionrelative:tasknovruz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\tasknovruz\\tasknovruz\\Program.cs",
+              "RelativeDocumentMoniker": "tasknovruz\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\tasknovruz\\tasknovruz\\Program.cs",
+              "RelativeToolTip": "tasknovruz\\Program.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAkwHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T21:01:00.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
